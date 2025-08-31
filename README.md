@@ -21,7 +21,7 @@ Future improvements include adding sentiment analysis charts, supporting multipl
 1. Backend
    cd server
    cp .env.example .env
-   # edit server/.env with your Atlas URI if needed
+## edit server/.env with your Atlas URI if needed
    npm install
    npm run dev
 2. Frontend
@@ -29,4 +29,5 @@ Future improvements include adding sentiment analysis charts, supporting multipl
    npm install
    npm run dev
 Open http://localhost:5173
-
+## Working url
+https://github.com/shre-blip/EngageSense-Social-Media-Content-Analyzer-/tree/main
